@@ -225,7 +225,6 @@ public class Manifestacao {
 	}
 
 	private void setId(int id) {
-		// TODO Auto-generated method stub
 
 	}
 }
